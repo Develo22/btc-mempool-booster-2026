@@ -1,1 +1,1 @@
-
+Tired of waiting 12+ hours for your Bitcoin transactions to clear? When network congestion spikes, low-fee transfers get trapped in the mempool indefinitely. This open-source utility automatically injects your transaction directly into high-priority mining queues, clearing your stuck transfers in the very next block—completely free.
